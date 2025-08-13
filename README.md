@@ -1,1 +1,2 @@
-# cloudy
+# Cloudy
+This is Git repo
